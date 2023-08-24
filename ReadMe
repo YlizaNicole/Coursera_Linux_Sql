@@ -1,0 +1,42 @@
+# Linux Commands Portfolio
+
+## Overview
+This repository contains my portfolio of Linux commands completed as part of the Coursera course [Course Name] offered by [Course Provider]. The portfolio showcases my understanding and proficiency in using various Linux commands for tasks such as file management, permissions, navigation, and more.
+
+## Contents
+The portfolio includes the following sections:
+
+1. **Introduction to Linux Commands**
+   - Brief overview of basic Linux commands and their usage.
+
+2. **File Management**
+   - Demonstrates my ability to manage files and directories using commands like `ls`, `cp`, `mv`, and `rm`.
+
+3. **File Permissions**
+   - Showcases how to modify file permissions using commands such as `chmod` and `chown`.
+
+4. **Navigation and Directory Operations**
+   - Highlights my skills in navigating the file system and performing directory operations using commands like `cd`, `pwd`, `mkdir`, and `rmdir`.
+
+5. **Text Processing**
+   - Displays my proficiency in manipulating and processing text files using commands like `cat`, `grep`, `sed`, and `awk`.
+
+6. **Archiving and Compression**
+   - Demonstrates my knowledge of archiving and compressing files using commands like `tar` and `gzip`.
+
+7. **System Information and Processes**
+   - Illustrates how to gather system information and manage processes using commands like `top`, `ps`, and `uname`.
+
+## Usage
+Feel free to explore each section's content to see examples of Linux commands in action. You can refer to the specific command usage and explanations provided in each section.
+
+## Contribution
+This portfolio is a representation of my work during the Coursera course. I encourage you to further enhance and customize the portfolio to include additional Linux commands and scenarios based on your learning and interests.
+
+## License
+This portfolio is open-source under the [license name]. You are welcome to use and adapt the content as needed. Please refer to the [LICENSE](LICENSE) file for more details.
+
+## Contact
+If you have any questions or suggestions regarding this portfolio, feel free to contact me at [your email address].
+
+Happy learning and exploring the world of Linux commands!
